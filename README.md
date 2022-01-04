@@ -1,4 +1,6 @@
 # React Feedback App
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/61343458/148004917-4465efa1-b308-417f-b9d8-38b8e156de6e.png">
+
 
 This is a project from Brad Traversy's React Front To Back 2022 course. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
 
