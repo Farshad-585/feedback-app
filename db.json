@@ -1,0 +1,59 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is a great product"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "This is a average product"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is a nice product"
+    },
+    {
+      "id": 4,
+      "rating": 9,
+      "text": "This is a bad product"
+    },
+    {
+      "id": 5,
+      "rating": 7,
+      "text": "This is a terrible product"
+    },
+    {
+      "id": 6,
+      "rating": 6,
+      "text": "This is a good product"
+    },
+    {
+      "id": 7,
+      "rating": 4,
+      "text": "This is a awesome product"
+    },
+    {
+      "id": 8,
+      "rating": 3,
+      "text": "This is a great product"
+    },
+    {
+      "id": 9,
+      "rating": 2,
+      "text": "This is a perfect product"
+    },
+    {
+      "id": 10,
+      "rating": 1,
+      "text": "This is a exceptional product"
+    },
+    {
+      "text": "this is a test",
+      "rating": 1,
+      "id": 11
+    }
+  ]
+}
